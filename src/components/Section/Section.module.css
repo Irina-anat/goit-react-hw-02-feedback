@@ -1,0 +1,9 @@
+.section{
+  padding: 10px;
+}
+
+.section__title{
+font-size: 36px;
+line-height: 1.625;
+margin-bottom: 30px;
+}
